@@ -8,6 +8,7 @@ colour: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:prefLabel "Colour Vocabulary"@en ;
     skos:hasTopConcept colour:violet, colour:blue .
 
 colour:violet a skos:Concept ;
